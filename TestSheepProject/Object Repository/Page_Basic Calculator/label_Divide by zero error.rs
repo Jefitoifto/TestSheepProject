@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Divide by zero error</name>
+   <tag></tag>
+   <elementGuidId>9bc912df-6180-4120-b963-e37f6ed2c295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#errorMsgField</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='errorMsgField']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2a39ea9f-99e9-4be2-aa72-ce3bd4116530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>errorMsgField</value>
+      <webElementGuid>3eae22b6-6292-4244-a9e6-73ba5c677d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Divide by zero error!</value>
+      <webElementGuid>7cb8f1a2-31db-4e79-9d33-0808e9cb1278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;errorMsgField&quot;)</value>
+      <webElementGuid>6d446b1f-821c-4796-a54b-6f0f75a1ab01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='errorMsgField']</value>
+      <webElementGuid>147e1168-4731-4263-9895-716cfe31033c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='errorForm']/h3/font/i/label</value>
+      <webElementGuid>4cf2f63b-f398-4f79-a9cb-03d2c481a500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Build'])[1]/following::label[1]</value>
+      <webElementGuid>3315bcb3-f500-464f-a533-58b33bfd3b37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prototype'])[1]/following::label[2]</value>
+      <webElementGuid>bec82be8-eb13-4967-b367-5ade31574084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate'])[1]/preceding::label[1]</value>
+      <webElementGuid>95e7bb84-041e-4d4f-93de-63e87f6daf20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First number'])[1]/preceding::label[1]</value>
+      <webElementGuid>f5a467c4-4777-4031-9f3c-9d1627362827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Divide by zero error!']/parent::*</value>
+      <webElementGuid>a30f5e61-bbbc-4c1b-aea4-b218f9f8e6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i/label</value>
+      <webElementGuid>0224ddc7-80d4-4326-8783-c26feb0f6e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'errorMsgField' and (text() = 'Divide by zero error!' or . = 'Divide by zero error!')]</value>
+      <webElementGuid>0cd1fa92-83fa-4bba-b7f0-66a89ee52ae8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

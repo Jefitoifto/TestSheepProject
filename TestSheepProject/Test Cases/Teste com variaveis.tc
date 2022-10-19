@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Teste com variaveis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88b493bb-3abe-4c8e-861a-6c760f505366</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36e96989-c12f-44ba-9519-a0e34a3816ae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b93f5fd-ebad-40a6-94e9-8c36b74f3086</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>45a65428-c10f-4286-b428-53f33941495d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>36e96989-c12f-44ba-9519-a0e34a3816ae</id>
+      <masked>false</masked>
+      <name>numero1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b93f5fd-ebad-40a6-94e9-8c36b74f3086</id>
+      <masked>false</masked>
+      <name>numero2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>45a65428-c10f-4286-b428-53f33941495d</id>
+      <masked>false</masked>
+      <name>operador</name>
+   </variable>
+</TestCaseEntity>
